@@ -1,6 +1,6 @@
-# Fibonacci Sequence
+# Python Programming
 
-## Python Programming
+## Fibonacci Sequence
 
-Displays the fibonacci sequence given the number of terms entered by the users.
+- It displays the fibonacci sequence given the number of terms entered by the user.
 
